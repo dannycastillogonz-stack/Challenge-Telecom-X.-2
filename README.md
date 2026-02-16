@@ -31,6 +31,4 @@ Google Colab
 Se logró construir un modelo predictivo utilizando datos previamente procesados mediante ETL.
 El modelo fue capaz de generar predicciones basadas en los datos tratados y mostrar su desempeño mediante métricas de evaluación.
 
-𓆝 𓆟 𓆞 𓆝 Autora
-
-Proyecto realizado como parte de un desafío de análisis de datos y machine learning.
+𓆝 𓆟 𓆞 Proyecto realizado como parte de un desafío de análisis de datos y machine learning.
